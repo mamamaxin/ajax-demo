@@ -1,1 +1,2 @@
-ajax demo
+<style> h1{color:#00F;}</style>
+<h1>ajax demo</h1>
